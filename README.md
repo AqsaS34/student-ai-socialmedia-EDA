@@ -1,4 +1,4 @@
-# student-ai-socialmedia-EDA
+# Student-AI-Socialmedia-EDA
 EDA of how social media and AI usage relate to student health
 # Student Health vs. Social Media and AI Usage: EDA
 
